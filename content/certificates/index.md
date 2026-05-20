@@ -7,7 +7,6 @@ draft = false
 +++
 
 
-
 ## Certified Ethical Hacker (CEH)
 
 
