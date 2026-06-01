@@ -133,3 +133,8 @@ Yes. I would definitely recommend this session to students interested in cyberse
 The presentations provided a very accessible overview of Belgium’s cybersecurity ecosystem while also showing the real-world importance and impact of cyber defence today.
 
 
+
+
+
+<img src="/portfolio-professional-networking/images/event6-CCB.jpg" alt="CCB" style="max-width: 100%; height: auto;">
+

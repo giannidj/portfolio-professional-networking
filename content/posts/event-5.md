@@ -57,3 +57,4 @@ Absolutely. I would highly recommend this session to anyone interested in cybers
 The combination of historical context, real-world examples and insider experience made this one of the most interesting Tech & Meet events I attended this year.
 
 
+<img src="/portfolio-professional-networking/images/event5-NATO.jpg" alt="NATO" style="max-width: 100%; height: auto;">

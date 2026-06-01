@@ -43,4 +43,5 @@ I also appreciated that the session was accessible for both beginners and people
 
 This event confirmed my interest in threat intelligence and cybersecurity investigations. I would definitely attend similar sessions again because practical examples from professionals provide insights that are difficult to obtain through theory alone.
 
+<img src="/portfolio-professional-networking/images/event1-CTI.jpg" alt="CTI" style="max-width: 100%; height: auto;">
 

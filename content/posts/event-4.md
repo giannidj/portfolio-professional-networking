@@ -141,3 +141,8 @@ This session helped me better understand:
 It also reinforced the importance of staying up to date with evolving networking technologies, especially in cybersecurity and infrastructure-related fields.
 
 
+
+
+
+<img src="/portfolio-professional-networking/images/event4-IPV6.jpg" alt="ipv6" style="max-width: 100%; height: auto;">
+

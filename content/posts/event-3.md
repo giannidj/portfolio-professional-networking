@@ -129,3 +129,10 @@ Definitely. Hack The Future was both educational and enjoyable. The combination 
 I would absolutely participate again in future hackathons because they are a great way to improve technical skills, gain practical experience and discover technologies outside of regular coursework.
 
 
+
+
+
+<img src="/portfolio-professional-networking/images/event3-HTF.jpg" alt="HTF" style="max-width: 100%; height: auto;">
+
+<img src="/portfolio-professional-networking/images/event3-HTF2.jpg" alt="HTF2" style="max-width: 100%; height: auto;">
+

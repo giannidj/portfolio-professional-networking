@@ -95,3 +95,6 @@ I am definitely considering participating in the next edition, as it seems like 
 Yes. I would recommend this lecture to anyone interested in cybersecurity, especially students or professionals interested in phishing, social engineering or security awareness. The topic is highly relevant and the practical examples made the session engaging and easy to follow.
 
 
+
+<img src="/portfolio-professional-networking/images/event2-outkept.jpg" alt="Outkept" style="max-width: 100%; height: auto;">
+
