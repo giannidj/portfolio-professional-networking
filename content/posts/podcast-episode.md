@@ -2,7 +2,7 @@
 
 title = "Podcast (NL): Chat Control Under Fire: Professor Bart Preneel on Privacy, Encryption, and European Surveillance surveillance"
 
-date = 2025-06-01
+date = 2026-06-01
 
 draft = false
 
