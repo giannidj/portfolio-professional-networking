@@ -14,7 +14,7 @@ draft = false
 
 
 
-\# Bachelor Thesis
+# Bachelor Thesis
 
 
 
@@ -24,9 +24,10 @@ This page contains the final version of the thesis.
 
 
 
-\## Download
+## Download
 
 
 
-\[Download the thesis (PDF)](/files/BachelorThesis\_GianniDeJaeger\_fullyAnonymised.pdf)
+[Download the thesis (PDF)](/files/BachelorThesis_GianniDeJaeger_fullyAnonymised.pdf)
+
 
