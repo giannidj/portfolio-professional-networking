@@ -1,8 +1,14 @@
 +++
 
+
+
 title = 'Bachelor Thesis'
 
+
+
 draft = false
+
+
 
 +++
 
@@ -12,9 +18,7 @@ draft = false
 
 
 
-As part of my Applied Computer Science degree at Howest University of Applied Sciences, I completed my bachelor thesis on \[onderwerp].
-
-
+As part of my Applied Computer Science degree at Howest University of Applied Sciences, I completed my bachelor thesis on 
 
 This page contains the final version of the thesis.
 
