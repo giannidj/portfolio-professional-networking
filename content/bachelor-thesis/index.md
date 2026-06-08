@@ -18,7 +18,7 @@ draft = false
 
 
 
-As part of my Applied Computer Science degree at Howest University of Applied Sciences, I completed my bachelor thesis on 
+As part of my Applied Computer Science degree at Howest University of Applied Sciences, I completed my bachelor thesis on
 
 This page contains the final version of the thesis.
 
@@ -28,6 +28,5 @@ This page contains the final version of the thesis.
 
 
 
-[Download the thesis (PDF)](/files/BachelorThesis_GianniDeJaeger_fullyAnonymised.pdf)
-
+[Download the thesis (PDF)](/portfolio-professional-networking/files/BachelorThesis_GianniDeJaeger_fullyAnonymised.pdf)
 
